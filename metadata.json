@@ -1,0 +1,6 @@
+{
+  "name": "X Nuke Android Studio Kotlin Workbench",
+  "description": "Single-activity Kotlin and Jetpack Compose Android WebView application with automated JavaScript injection to delete all X (Twitter) posts and reposts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
